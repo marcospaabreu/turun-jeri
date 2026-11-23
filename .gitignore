@@ -1,0 +1,15 @@
+# Publicar apenas os arquivos da versão cinematográfica atual.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/iniciar-novo.cmd
+!/assets/
+/assets/*
+!/assets/jeri/
+/assets/jeri/*
+!/assets/jeri/cine.css
+!/assets/jeri/cine.js
+!/assets/jeri/fonts.css
+!/assets/jeri/dunas.webp
+!/assets/jeri/CREDITOS.txt
